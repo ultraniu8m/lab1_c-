@@ -1,0 +1,12 @@
+Q:\15.12 mdk.01.02\library\library\bin\Debug\net5.0\library.deps.json
+Q:\15.12 mdk.01.02\library\library\bin\Debug\net5.0\library.dll
+Q:\15.12 mdk.01.02\library\library\bin\Debug\net5.0\ref\library.dll
+Q:\15.12 mdk.01.02\library\library\bin\Debug\net5.0\library.pdb
+Q:\15.12 mdk.01.02\library\library\obj\Debug\net5.0\library.GeneratedMSBuildEditorConfig.editorconfig
+Q:\15.12 mdk.01.02\library\library\obj\Debug\net5.0\library.AssemblyInfoInputs.cache
+Q:\15.12 mdk.01.02\library\library\obj\Debug\net5.0\library.AssemblyInfo.cs
+Q:\15.12 mdk.01.02\library\library\obj\Debug\net5.0\library.csproj.CoreCompileInputs.cache
+Q:\15.12 mdk.01.02\library\library\obj\Debug\net5.0\library.dll
+Q:\15.12 mdk.01.02\library\library\obj\Debug\net5.0\ref\library.dll
+Q:\15.12 mdk.01.02\library\library\obj\Debug\net5.0\library.pdb
+Q:\15.12 mdk.01.02\library\library\obj\Debug\net5.0\library.csprojAssemblyReference.cache

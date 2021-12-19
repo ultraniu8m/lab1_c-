@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgMlr5XjhYj7iZ/hUFLNhvEo8ngzU3pd0eOUn7eKD7Qnd2UkTJSx8ZIxHSjANvwNj6yVk8XLzcAH9A9gCJp4ow==",
+  "success": false,
+  "projectFilePath": "Q:\\15.12 mdk.01.02\\library\\tests\\tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект library несовместим с netcoreapp3.1 (.NETCoreApp,Version=v3.1). Проект library поддерживает: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "library",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
